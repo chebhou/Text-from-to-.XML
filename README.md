@@ -24,3 +24,15 @@ the addon is useful when  you need to edit a lot of text objects externaly , you
 </data>
 
 ```
+
+### Using the addon :
+
+ - hit <kbd>Space</kbd> and type "text from" and select "text from-to xml"
+
+ OR
+ 
+ - go to File-->Import/Export-->text from-to xml
+ 
+ - choose wether to export or import from the tools panel :
+
+![image](http://i.stack.imgur.com/bAh3W.png)
