@@ -7,7 +7,7 @@ the addon is useful when  you need to edit a lot of text objects externaly , you
  - the .xml fil will have the following structure :
 
  
-```
+```XML
 
 <?xml version="1.0" ?>
 <data>
